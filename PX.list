@@ -1,0 +1,49 @@
+# ****** 代理域名集（最终去重版）******
+# 最后更新：2026-04-02
+
+# ===== Cloudflare =====
+DOMAIN-SUFFIX,engage.cloudflareclient.com
+DOMAIN-SUFFIX,challenges.cloudflare.com
+
+# ===== Apple 中继 =====
+DOMAIN-SUFFIX,apple-relay.apple.com
+
+# ===== RIR 注册机构 =====
+DOMAIN-SUFFIX,ftp.afrinic.net
+DOMAIN-SUFFIX,ftp.apnic.net
+DOMAIN-SUFFIX,ftp.arin.net
+DOMAIN-SUFFIX,ftp.lacnic.net
+DOMAIN-SUFFIX,ftp.ripe.net
+
+# ===== 论坛 / 小众 =====
+DOMAIN-SUFFIX,c.mi.com
+DOMAIN-SUFFIX,sspanel.net
+DOMAIN-SUFFIX,v2rayssr.com
+#DOMAIN-SUFFIX,minebbs.com
+DOMAIN-SUFFIX,qobuz.com
+DOMAIN-SUFFIX,yecaoyun.com
+DOMAIN-SUFFIX,hassbian.com
+DOMAIN-SUFFIX,hdhive.com
+DOMAIN-SUFFIX,www.scamalytics.com
+DOMAIN-SUFFIX,www.gq685.com
+DOMAIN-SUFFIX,www.dmit.io
+DOMAIN-SUFFIX,nullbr.online
+DOMAIN-SUFFIX,forums.unraid.net
+
+# ===== DNS 检测 =====
+DOMAIN-SUFFIX,ipleak.net
+
+# ===== Logitech 检测 =====
+DOMAIN-SUFFIX,logi.com
+DOMAIN-SUFFIX,logicool.co.jp
+DOMAIN-SUFFIX,logicoolg.com
+DOMAIN-SUFFIX,logitech.biz
+DOMAIN-SUFFIX,logitech.com
+DOMAIN-SUFFIX,logitech.fr
+DOMAIN-SUFFIX,logitechg.com
+DOMAIN-SUFFIX,logitechg.fr
+DOMAIN-SUFFIX,worldsfastestgamer.net
+
+# ===== 影视 =====
+DOMAIN-SUFFIX,dorcelvision.com
+DOMAIN-SUFFIX,adultdvdempire.com
